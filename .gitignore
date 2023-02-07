@@ -1,0 +1,8 @@
+node_modules
+node_modules
+angular-webpack
+babel-webpack
+.angular/cache/14.1.1
+*.angular
+
+.angular/cache/14.1.1/angular-webpack/4558917667e9680be25a8b74e537c50dc0949c8c/6.pack
